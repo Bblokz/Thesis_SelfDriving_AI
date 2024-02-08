@@ -1,0 +1,28 @@
+steering_accuracy_tolerance: 0.05
+RunFolder: ThrottleAccuracy% SteeringAccuracy% SteeringSignAccuracy% Loss AvgAbsDiffThrottle AvgAbsDiffSteering
+Test1: 50.53 59.91 96.16 0.1569 0.2109 0.0614
+Test2: 62.72 66.81 97.63 0.1330 0.1758 0.0537
+Test3: 77.08 61.34 95.60 0.0236 0.0535 0.0581
+Test4: 75.23 73.42 97.97 0.0735 0.1025 0.0502
+Test5: 70.02 58.17 94.41 0.0855 0.1217 0.0606
+Test6: 54.32 68.51 97.78 0.1472 0.2034 0.0522
+Test7: 81.59 63.41 96.59 0.0351 0.0543 0.0654
+Test8: 59.42 50.78 96.45 0.1193 0.1660 0.0754
+
+RunFolder OVERALL: ThrottleAccuracy% SteeringAccuracy% SteeringSignAccuracy% Loss TotalExamples AvgAbsDiffThrottle AvgAbsDiffSteering
+OVERALL: 66.15 62.78 96.58 4.8889 3598 0.1373 0.0596
+
+
+steering_accuracy_tolerance: 0.10
+RunFolder: ThrottleAccuracy% SteeringAccuracy% SteeringSignAccuracy% Loss AvgAbsDiffThrottle AvgAbsDiffSteering
+Test1: 59.28 80.60 96.16 0.1569 0.2109 0.0614
+Test2: 67.67 85.99 97.63 0.1330 0.1758 0.0537
+Test3: 80.56 83.80 95.60 0.0236 0.0535 0.0581
+Test4: 81.98 86.49 97.97 0.0735 0.1025 0.0502
+Test5: 76.06 82.33 94.41 0.0855 0.1217 0.0606
+Test6: 62.08 85.14 97.78 0.1472 0.2034 0.0522
+Test7: 88.64 78.86 96.59 0.0351 0.0543 0.0654
+Test8: 67.63 74.06 96.45 0.1193 0.1660 0.0754
+
+RunFolder OVERALL: ThrottleAccuracy% SteeringAccuracy% SteeringSignAccuracy% Loss TotalExamples AvgAbsDiffThrottle AvgAbsDiffSteering
+OVERALL: 72.79 82.16 96.58 4.8889 3598 0.1373 0.0596
